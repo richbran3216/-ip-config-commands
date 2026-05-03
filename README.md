@@ -24,7 +24,7 @@ I used the ipconfig command to check my device’s IP address, default gateway, 
 The command displayed my device’s network configuration, confirming connection to the network.
 
 ## Screenshots
-![IP Config](ipconfig.png)
+![IP Config](ping-test.png)
 
 ## Conclusion
 This project helped me understand how to check network settings and troubleshoot connectivity issues
