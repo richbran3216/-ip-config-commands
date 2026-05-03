@@ -9,7 +9,7 @@ In this project, I practiced using command line tools to view and understand IP 
 - ipconfig command
 
 ## Environment
-- Chromebook (Linux/Terminal)
+- Chromebook (Crosh/Terminal)
 
 ## What I Did
 I used the ipconfig command to check my device’s IP address, default gateway, and network configuration.
